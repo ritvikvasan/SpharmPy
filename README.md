@@ -1,8 +1,12 @@
 # SpharmPy
 
-[![Build Status](https://github.com/ritvikvasan/spharmpy/workflows/Build%20Master/badge.svg)](https://github.com/ritvikvasan/spharmpy/actions)
-[![Documentation](https://github.com/ritvikvasan/spharmpy/workflows/Documentation/badge.svg)](https://ritvikvasan.github.io/spharmpy)
-[![Code Coverage](https://codecov.io/gh/ritvikvasan/spharmpy/branch/master/graph/badge.svg)](https://codecov.io/gh/ritvikvasan/spharmpy)
+<!-- [![Build Status](https://github.com/ritvikvasan/spharmpy/workflows/Build%20Master/badge.svg)](https://github.com/ritvikvasan/spharmpy/actions) -->
+[![Build Status](https://travis-ci.com/ritvikvasan/SpharmPy.svg?branch=master)](https://travis-ci.com/ritvikvasan/SpharmPy)
+<!-- [![Documentation](https://github.com/ritvikvasan/spharmpy/workflows/Documentation/badge.svg)](https://ritvikvasan.github.io/spharmpy) -->
+[![Documentation Status](https://readthedocs.org/projects/spharmpy/badge/?version=latest)](https://spharmpy.readthedocs.io/en/latest/?badge=latest)
+     
+<!-- [![Code Coverage](https://codecov.io/gh/ritvikvasan/spharmpy/branch/master/graph/badge.svg)](https://codecov.io/gh/ritvikvasan/spharmpy) -->
+
 
 Python implementation of SpharmMech
 
