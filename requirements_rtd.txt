@@ -13,7 +13,7 @@ bumpversion==0.5.3
 certifi==2019.9.11
 chardet==3.0.4
 Click==7.0
-codecov==2.0.15
+codecov==2.0.16
 cookiecutter==1.6.0
 coverage==5.0a8
 cycler==0.10.0
